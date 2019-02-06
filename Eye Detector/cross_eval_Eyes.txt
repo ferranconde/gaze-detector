@@ -1,0 +1,29 @@
+
+##### Hog#####
+Accuracy:0.99803
+Support Vectors:121.2
+################################
+##### Eccentricity#####
+Accuracy:0.5
+Support Vectors:2434
+################################
+##### Surf#####
+Accuracy:0.69474
+Support Vectors:2190.2
+################################
+##### Lbp#####
+Accuracy:0.9977
+Support Vectors:170.6
+################################
+##### Haar#####
+Accuracy:0.65559
+Support Vectors:2605.6
+################################
+##### Hog Eccentricity#####
+Accuracy:0.99704
+Support Vectors:122.6
+################################
+##### Hog Surf#####
+Accuracy:0.99671
+Support Vectors:125.2
+################################
